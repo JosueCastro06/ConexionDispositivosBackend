@@ -1,0 +1,1 @@
+insert into device values (1,true,'192.168.1.1','B8:D3:2A:86:7F:C1','Samsung','Computador',1);
